@@ -3487,7 +3487,7 @@ def MultiPlayer():
         elif wave == 11:
             E = 0
             while E < 2:
-                self.after(time,CreateEnemy)
+                self.after(time,CreateEnemy) 
                 E += 1
                 time += 250
             E = 0
