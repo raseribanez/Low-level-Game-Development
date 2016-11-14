@@ -1,3 +1,12 @@
+# Ben Woodfield
+# In the LPTHW Learn Python The Hard Way Book I covered, and wrote this game
+# It's a text adventure game - tha answers are the obvious first thing you'd say
+# But scroll through the code to see how to progress - Maybe Ill add a number choice 
+# like choose 1 (say Bugger Off) or 2 (kiss the frog)
+
+# This game is NOT my own writing although I did copy it out for the course
+# Next assignment is to write my own so we'll see how that goes
+
 from sys import exit
 from random import randint
 
