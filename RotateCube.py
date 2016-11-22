@@ -1,4 +1,6 @@
 """
+ A Pygame Tutorial code - Followed and typed out by Ben Woodfield
+ 
  Simulation of 3D Cube Rotation.
 """
 import sys, math, pygame, random
