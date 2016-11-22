@@ -1,5 +1,7 @@
 # Ben Woodfield
 # Some basic 3D sphere editing, this was from an online tutorial I followed
+# Had a few dependency issues with PyOpenGL
+# Very basic examples will run on the RasPi - including this one
 
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
