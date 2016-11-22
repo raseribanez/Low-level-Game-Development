@@ -1,6 +1,25 @@
-# The beginning of a basic Pool game in Pygame
+# The beginnings of a basic Pool game in Pygame
 # Runs in Python 2.7 and needs a lot more work
 # Ben Woodfield
+
+'''
+ I found something ver similar amongst a repo of random code, and liked the 
+ look of it so I wrote it out for myself and tweaked a few things. So as it
+ is now, the balls have physical interaction and movement with eachother,
+ but any color ball can be clicked and launched. Poolballs will bounce off
+ eachother and the table edges, and a ball will disappear when it collides
+ with one of the pockets.
+ 
+ To Do:
+ 
+ Add a scoring system (different color balls have different point values)
+ Only allow user interaction with the White Ball
+ Have a cue widget that collides with the white ball only
+ Cue widget to have angular direction from a fixed point 
+ Enable a fouling system -Basically add the rules of a Pool Game :s
+ 
+'''
+
 import pygame
 import random
 import math
